@@ -1,0 +1,2 @@
+Fichero de prueba 1
+nueva linea con el editor NANO en el fichero 1
